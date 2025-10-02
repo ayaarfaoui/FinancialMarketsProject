@@ -1,58 +1,62 @@
-# FinancialMarketsProject
-Project Overview
+## FinancialMarketsProjec
+ ## Project Overview
 
 This project focuses on the selection, analysis, and management of a portfolio of 10 Tunisian stocks. It combines fundamental analysis, risk assessment, and technical analysis to support investment decisions.
 
-Methodology
+ ## Methodology
 
-Fundamental Analysis – Evaluation of EPS, profit margin, ROE, revenue growth, P/E ratio, and liquidity.
+**Fundamental Analysis** – Evaluation of EPS, profit margin, ROE, revenue growth, P/E ratio, and liquidity.
 
-Risk Assessment – Consideration of beta, debt ratios, and Sharpe ratios to measure volatility and leverage.
+**Risk Assessment** – Consideration of beta, debt ratios, and Sharpe ratios to measure volatility and leverage.
 
-Technical Analysis – Use of RSI indicators and charts (sourced from Investing.com and broker data) to determine entry points.
+**Technical Analysis** – Use of RSI indicators and charts (sourced from Investing.com and broker data) to determine entry points.
 
-Execution – Market orders were placed due to time constraints, with trades executed on December 13.
+**Execution** – Market orders were placed due to time constraints, with trades executed on December 13.
 
-Key Features
+ ## Key Features
 
-Selection of 20 stocks, narrowed down to 10 based on analysis.
+-Selection of 20 stocks, narrowed down to 10 based on analysis.
 
-Visualizations and technical charts for chosen stocks.
+-Visualizations and technical charts for chosen stocks.
 
-Final portfolio construction with entry prices and quantities.
-Portfolio Composition
+-Final portfolio construction with entry prices and quantities.
 
-The final portfolio includes investments in the following companies:
+ ## Portfolio Composition
 
-SAH
+  The final portfolio includes investments in the following companies:
 
-SFBT
+**SAH**
 
-SOTUMAG
+**SFBT**
 
-SPDI
+**SOTUMAG**
 
-SOTUVER
+**SPDI**
 
-MPBS
+**SOTUVER**
 
-ARTES
+**MPBS**
 
-TUNINVEST
+**ARTES**
 
-OTH
+**TUNINVEST**
 
-Tools & Resources
+**OTH**
 
-Excel – For financial ratios and portfolio calculations.
+ ## Tools & Resources
 
-Investing.com – For technical analysis support.
+**Excel** – For financial ratios and portfolio calculations.
 
-Broker Data(MAC SA) – For execution and validation.
+**Investing.com** – For technical analysis support.
 
-👥 Contributors
+**Broker Data (MAC SA)** – For execution and validation.
 
-Eya Arfaoui
-Malek Lassoued
-Aziz Laabidi
-Isra Ben Attia
+ ## Contributors
+
+**Eya Arfaoui**
+
+**Malek Lassoued**
+
+**Aziz Laabidi**
+
+**Isra Ben Attia**
